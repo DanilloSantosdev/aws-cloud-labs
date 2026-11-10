@@ -1,0 +1,7 @@
+_raw/
+*.pem
+*.ppk
+.aws/
+.env
+credentials
+.DS_Store
