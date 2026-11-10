@@ -5,3 +5,4 @@ _raw/
 .env
 credentials
 .DS_Store
+CLAUDE.md
