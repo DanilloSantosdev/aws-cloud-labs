@@ -9,3 +9,4 @@ Each lab folder has its own README with the architecture, the issues I hit and h
 |---|-----|--------------|------------------------|
 | 01 | [Introduction to Amazon EC2](01-introduction-to-amazon-ec2/) | EC2, EBS, VPC, Security Groups | Apache web server from user data; unreachable until the security group allowed HTTP |
 | 02 | [Build your VPC and Launch a Web Server](02-build-your-vpc-and-launch-a-web-server/) | VPC, Subnets, Internet Gateway, NAT Gateway, Route Tables, EC2 | Custom multi-AZ VPC with a PHP web server; caught subnets that were silently all in one AZ |
+| 03 | [Introduction to AWS IAM](03-introduction-to-aws-iam/) | IAM, EC2, S3 | Password policy and group-based permissions, verified by hitting not-authorized errors as different users |
